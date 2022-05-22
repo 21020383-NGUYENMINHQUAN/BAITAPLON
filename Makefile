@@ -1,0 +1,2 @@
+all:
+	g++ -Ilibraries\SDL2-2.0.20\x86_64-w64-mingw32\include\SDL2 -Ilibraries\sdl_image\x86_64-w64-mingw32\include\SDL2 -Llibraries\sdl_image\x86_64-w64-mingw32\lib -Llibraries\SDL2-2.0.20\x86_64-w64-mingw32\lib -o main main.cpp Create_entity.cpp entity.cpp RenderWindow.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image

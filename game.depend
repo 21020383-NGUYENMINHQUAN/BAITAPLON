@@ -1,0 +1,1002 @@
+# depslib dependency file v1.0
+1653144523 source:d:\c++\projectgame\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<bits/stdc++.h>
+	<entity.h>
+	<RenderWindow.h>
+	<Create_entity.h>
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\graphic\rootdir\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650901613 d:\c++\libraries\sdl_image\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650955238 d:\c++\projectgame\game\renderwindow.hpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1651030814 d:\c++\projectgame\game\entity.hpp
+	<SDL.h>
+	<SDL_image.h>
+
+1653138544 source:d:\c++\projectgame\game\entity.cpp
+	"entity.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1653230616 d:\c++\projectgame\game\entity.h
+	<SDL.h>
+	<SDL_image.h>
+
+1653230608 d:\c++\projectgame\game\renderwindow.h
+	<SDL.h>
+	<SDL_image.h>
+	<entity.h>
+
+1653141910 source:d:\c++\projectgame\game\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<entity.h>
+	<iostream>
+	"RenderWindow.h"
+
+1653144900 source:d:\c++\projectgame\game\create_entity.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<entity.h>
+	<RenderWindow.h>
+	<vector>
+
+1653230594 d:\c++\projectgame\game\create_entity.h
+	<SDL.h>
+	<SDL_image.h>
+	<entity.h>
+	<RenderWindow.h>
+	<bits/stdc++.h>
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1521548573 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\winapifamily.h
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1521548573 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\winsdkver.h
+	<winapifamily.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sys\types.h
+	<crtdefs.h>
+	<_mingw_off_t.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\crtdefs.h
+	<_mingw.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_directx.h"
+	"sdks/_mingw_ddk.h"
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw_mac.h
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw_secapi.h
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_cygwin.h
+	<stddef.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\stddef.h
+	<crtdefs.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\vadefs.h
+	<_mingw.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdks\_mingw_directx.h
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdks\_mingw_ddk.h
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw_off_t.h
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\stdio.h
+	<crtdefs.h>
+	<_mingw_print_push.h>
+	<_mingw_off_t.h>
+	<swprintf.inl>
+	<sec_api/stdio_s.h>
+	<_mingw_print_pop.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw_print_push.h
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\swprintf.inl
+	<vadefs.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sec_api\stdio_s.h
+	<stdio.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw_print_pop.h
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\stdlib.h
+	<crtdefs.h>
+	<limits.h>
+	<sec_api/stdlib_s.h>
+	<malloc.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\limits.h
+	<crtdefs.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sec_api\stdlib_s.h
+	<stdlib.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\malloc.h
+	<crtdefs.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\stdarg.h
+	<_mingw_stdarg.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw_stdarg.h
+	<vadefs.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\memory.h
+	<crtdefs.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\string.h
+	<crtdefs.h>
+	<sec_api/string_s.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sec_api\string_s.h
+	<string.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\strings.h
+	<string.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\wchar.h
+	<crtdefs.h>
+	<_mingw_print_push.h>
+	<_mingw_off_t.h>
+	<_mingw_stat64.h>
+	<swprintf.inl>
+	<sec_api/wchar_s.h>
+	<_mingw_print_pop.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\_mingw_stat64.h
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sec_api\wchar_s.h
+	<wchar.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\inttypes.h
+	<crtdefs.h>
+	<stdint.h>
+	<stddef.h>
+	<_mingw_print_push.h>
+	<_mingw_print_pop.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\stdint.h
+	<crtdefs.h>
+	<stddef.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\ctype.h
+	<crtdefs.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\math.h
+	<crtdefs.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\float.h
+	<crtdefs.h>
+
+1521548573 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sal.h
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\signal.h
+	<crtdefs.h>
+	<pthread_signal.h>
+
+1521548578 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\pthread_signal.h
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\intrin.h
+	<crtdefs.h>
+	<setjmp.h>
+	<stddef.h>
+	<psdk_inc/intrin-impl.h>
+	<stdlib.h>
+	<errno.h>
+	<malloc.h>
+	<x86intrin.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<mm3dnow.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\setjmp.h
+	<crtdefs.h>
+
+1521548575 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\psdk_inc\intrin-impl.h
+	<intrin.h>
+	<psdk_inc/intrin-impl.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\errno.h
+	<crtdefs.h>
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\process.h
+	<crtdefs.h>
+	<corecrt_startup.h>
+	<sys/types.h>
+
+1521548574 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\corecrt_startup.h
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1641849092 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650901613 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653230616 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\entity.h
+	<SDL.h>
+	<SDL_image.h>
+
+1653230608 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\renderwindow.h
+	<SDL.h>
+	<SDL_image.h>
+	<entity.h>
+
+1653230594 d:\c++\projectgame\game\libraries\sdl2-2.0.20\x86_64-w64-mingw32\include\sdl2\create_entity.h
+	<SDL.h>
+	<SDL_image.h>
+	<entity.h>
+	<RenderWindow.h>
+	<bits/stdc++.h>
+
