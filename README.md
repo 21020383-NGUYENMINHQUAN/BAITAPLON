@@ -15,7 +15,7 @@ Game của em tên là Flying Helicopter, là 1 game đơn giản điều khiể
  
  2) Giới thiệu chung:
   Đây là 1 game điều khiển máy bay trực thăng theo phương thẳng đứng. Bằng cách ấn phím cách (space) hoặc phím mũi tên hướng lên (up), ta có thể lái trực thăng bay lên   1 đoạn thẳng. Game được lấy ý tưởng từ game Flappy bird và các game điều khiển trực thăng, ý tưởng ban đầu của em là tạo ra 1 game chạy vô tận với độ khó tăng 
-  các nguồn tham khảo:
+  - các nguồn tham khảo:
   https://phattrienphanmem123az.com/lap-trinh-game-cpp
   https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS
   
