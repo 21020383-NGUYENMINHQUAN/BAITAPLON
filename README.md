@@ -6,7 +6,7 @@ Nhóm 6 lớp INT2215_1
 
 Game của em tên là Flying Helicopter, là 1 game đơn giản điều khiển trực thăng bay né tránh các trở ngại (là các máy bay trực thăng khác)
 1) Cách cài đặt:
-  - Trước tiên ta cần cài đặt trình biên dịch MinGW (xem hướng dẫn tại: https://azrael.digipen.edu/~mmead/www/public/mingw/#64BIT)
+  - Trước tiên cần cài đặt trình biên dịch MinGW (xem hướng dẫn tại: https://azrael.digipen.edu/~mmead/www/public/mingw/#64BIT)
   - tải file game.rar về và giải nén được thư mục game
   - mở thử mục game, ấn shift + chuột phải và chọn mở terminal tại đây
   - nhập dòng lệnh :mingw32-make để build chương trình
