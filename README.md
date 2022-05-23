@@ -43,7 +43,7 @@ Game của em tên là Flying Helicopter, là 1 game đơn giản điều khiể
   + Đồ họa SDL2, thư viện SDL_image
 
 
-  5) Kết luận
+  5) Kết luận: 
     Vì thời gian tiếp xúc với lập trình chưa nhiều nên chương trình của em còn rất nhiều thiếu sót và vẫn có thể phát triển nhiều hơn nữa, em còn rất nhiều ý tưởng cho   game như hiển thị số điểm và level, thêm tính năng máu(hp), thêm các item để tăng điểm, tăng các chỉ số tốc độ, đã dạng các loại chướng ngại, thêm âm thanh.....
     trong suốt thời gian học và hoàn thiện chương trình này em rút ra rất nhiều bài học, bản thân em thấy rằng vẫn còn nhiều phần còn chưa nắm vững và cần luyện tập     thêm. 
     Em rất cảm ơn các thầy đã hỗ trợ để em có thể hoàn thành chương trình này.
