@@ -10,7 +10,7 @@ Game của em tên là Flying Helicopter, là 1 game đơn giản điều khiể
   - tải file game.rar về và giải nén được thư mục game
   - mở thử mục game, ấn shift + chuột phải và chọn mở terminal tại đây
   - nhập dòng lệnh :mingw32-make để build chương trình
-  - nhấp vào file game.exen để chạy chương 
+  - nhấp vào file game.exe để chạy chương 
  
  
  2) Giới thiệu chung:
