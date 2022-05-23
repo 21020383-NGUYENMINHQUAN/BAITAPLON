@@ -26,7 +26,7 @@ Game của em tên là Flying Helicopter, là 1 game đơn giản điều khiể
     - Khi va chạm với máy bay trở ngại thì sẽ kết thúc trò chơi (Game over), có thể ấn space để chơi lại hoặc esc để thoát.
   
   + Trực thăng trở ngại
-    - Đây là kẻ địch chính của trò chơi, Các máy bay này có thể xuất hiện ngẫu nhiên để cản trở trự thăng của người chơi
+    - Đây là kẻ địch chính của trò chơi, Các máy bay này có thể xuất hiện ngẫu nhiên để cản trở trực thăng của người chơi
     - các máy bay xuất hiện cách nhau 2s
 
   + Hệ thống điểm (score) và cấp bậc (level)
