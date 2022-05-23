@@ -33,7 +33,7 @@ Game của em tên là Flying Helicopter, là 1 game đơn giản điều khiể
     - Người chơi sẽ bắt đầu ở 0 điểm và level 1
     - Trực thăng chính mỗi khi né tránh được 1 trực thăng trở ngại thì sẽ được 1 điểm, cứ mỗi 5 điểm có được sẽ tăng 1 level, khi tăng level sẽ tăng tốc độ của trực      thăng trở ngại. Có tối đa 5 level.
 
-  + Video minh họa: 
+  + Video minh họa: https://youtu.be/kgKIHLS5XAU
 
 
   4) Các kỹ thuật lập trình được sử dụng trong chương trình: 
